@@ -1,0 +1,129 @@
+{
+  "name": "brotli-python",
+  "version": "1.1.0",
+  "build": "py312h6b01ec3_4",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "osx-arm64",
+  "fn": "brotli-python-1.1.0-py312h6b01ec3_4.conda",
+  "md5": "0d50ab05d6d8fa7a38213c809637ba6d",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/brotli-python-1.1.0-py312h6b01ec3_4.conda",
+  "sha256": "e45f24660a89c734c3d54f185ecdc359e52a5604d7e0b371e35dce042fa3cf3a",
+  "depends": [
+    "__osx >=11.0",
+    "python_abi 3.12.* *_cp312",
+    "python >=3.12,<3.13.0a0",
+    "python >=3.12,<3.13.0a0 *_cpython",
+    "libcxx >=19"
+  ],
+  "constrains": [
+    "libbrotlicommon 1.1.0 h6caf38d_4"
+  ],
+  "license": "MIT",
+  "timestamp": 1756600036000,
+  "size": 341750,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/brotli-python-1.1.0-py312h6b01ec3_4.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/brotli-python-1.1.0-py312h6b01ec3_4",
+  "files": [
+    "lib/python3.12/site-packages/__pycache__/brotli.cpython-312.pyc",
+    "lib/python3.12/site-packages/_brotli.cpython-312-darwin.so",
+    "lib/python3.12/site-packages/brotli-1.1.0.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/brotli-1.1.0.dist-info/METADATA",
+    "lib/python3.12/site-packages/brotli-1.1.0.dist-info/RECORD",
+    "lib/python3.12/site-packages/brotli-1.1.0.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/brotli-1.1.0.dist-info/WHEEL",
+    "lib/python3.12/site-packages/brotli-1.1.0.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/brotli-1.1.0.dist-info/licenses/LICENSE",
+    "lib/python3.12/site-packages/brotli-1.1.0.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/brotli.py"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/python3.12/site-packages/__pycache__/brotli.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ecea2f2eb60cda53e2ee897ff4abf519245c266e2d485409756204ec073d37f",
+        "size_in_bytes": 1890,
+        "sha256_in_prefix": "3ecea2f2eb60cda53e2ee897ff4abf519245c266e2d485409756204ec073d37f"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/_brotli.cpython-312-darwin.so",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/brotli-split_1756599213019/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "e2bfe4707207bf89cc6a48384f050c205a8374dfff7646c3f932cfa755e658a5",
+        "size_in_bytes": 827504,
+        "sha256_in_prefix": "ce48ba20ebc278f785b90afbcd9aef8574b335a305d83d92fa2e5bcef4acc364"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotli-1.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotli-1.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "3058f979b652729fd426fd39c0746633cdc0c2b395e42098b990112bc29c3dd1",
+        "size_in_bytes": 1485,
+        "sha256_in_prefix": "3058f979b652729fd426fd39c0746633cdc0c2b395e42098b990112bc29c3dd1"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotli-1.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8d0b8600aed42888c6175a1e272aeb15c17f45f4f65acfc6549704902c9bb065",
+        "size_in_bytes": 859,
+        "sha256_in_prefix": "8d0b8600aed42888c6175a1e272aeb15c17f45f4f65acfc6549704902c9bb065"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotli-1.1.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotli-1.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "0a5b57377950bd76c7c4a0ed883c16d1137317cb365b206e3db3805ff65e4250",
+        "size_in_bytes": 109,
+        "sha256_in_prefix": "0a5b57377950bd76c7c4a0ed883c16d1137317cb365b206e3db3805ff65e4250"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotli-1.1.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f1ad0f084f37014dedec946af87c3e10601cd660932c6a9381ffe5432a6b897d",
+        "size_in_bytes": 100,
+        "sha256_in_prefix": "f1ad0f084f37014dedec946af87c3e10601cd660932c6a9381ffe5432a6b897d"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotli-1.1.0.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "3d180008e36922a4e8daec11c34c7af264fed5962d07924aea928c38e8663c94",
+        "size_in_bytes": 1084,
+        "sha256_in_prefix": "3d180008e36922a4e8daec11c34c7af264fed5962d07924aea928c38e8663c94"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotli-1.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "82c4b9e07ae13b766f785c5e32b2a8ffba87e129b84db43b8c62d5044a89e0d2",
+        "size_in_bytes": 15,
+        "sha256_in_prefix": "82c4b9e07ae13b766f785c5e32b2a8ffba87e129b84db43b8c62d5044a89e0d2"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/brotli.py",
+        "path_type": "hardlink",
+        "sha256": "3e71885667851851d23b07ab986c28861776172af8e058607a32d09242081620",
+        "size_in_bytes": 1866,
+        "sha256_in_prefix": "3e71885667851851d23b07ab986c28861776172af8e058607a32d09242081620"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/brotli-python-1.1.0-py312h6b01ec3_4",
+    "type": 1
+  }
+}

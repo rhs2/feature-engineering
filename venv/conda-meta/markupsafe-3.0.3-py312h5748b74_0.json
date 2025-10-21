@@ -1,0 +1,168 @@
+{
+  "name": "markupsafe",
+  "version": "3.0.3",
+  "build": "py312h5748b74_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "osx-arm64",
+  "fn": "markupsafe-3.0.3-py312h5748b74_0.conda",
+  "md5": "82221456841d3014a175199e4792465b",
+  "url": "https://conda.anaconda.org/conda-forge/osx-arm64/markupsafe-3.0.3-py312h5748b74_0.conda",
+  "sha256": "b6aadcee6a0b814a0cb721e90575cbbe911b17ec46542460a9416ed2ec1a568e",
+  "depends": [
+    "__osx >=11.0",
+    "python_abi 3.12.* *_cp312",
+    "python >=3.12,<3.13.0a0",
+    "python >=3.12,<3.13.0a0 *_cpython"
+  ],
+  "constrains": [
+    "jinja2 >=3.0.0"
+  ],
+  "license": "BSD-3-Clause",
+  "timestamp": 1759055677000,
+  "size": 25121,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/markupsafe-3.0.3-py312h5748b74_0.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/markupsafe-3.0.3-py312h5748b74_0",
+  "files": [
+    "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/INSTALLER",
+    "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/METADATA",
+    "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/RECORD",
+    "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/REQUESTED",
+    "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/WHEEL",
+    "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/direct_url.json",
+    "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt",
+    "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/top_level.txt",
+    "lib/python3.12/site-packages/markupsafe/__init__.py",
+    "lib/python3.12/site-packages/markupsafe/__pycache__/__init__.cpython-312.pyc",
+    "lib/python3.12/site-packages/markupsafe/__pycache__/_native.cpython-312.pyc",
+    "lib/python3.12/site-packages/markupsafe/_native.py",
+    "lib/python3.12/site-packages/markupsafe/_speedups.c",
+    "lib/python3.12/site-packages/markupsafe/_speedups.cpython-312-darwin.so",
+    "lib/python3.12/site-packages/markupsafe/_speedups.pyi",
+    "lib/python3.12/site-packages/markupsafe/py.typed"
+  ],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": [
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5,
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "12b4cc61a7fa288cf7667ee3f213786d9619db57fb33ff6f934afbcb5c12ec81",
+        "size_in_bytes": 2690,
+        "sha256_in_prefix": "12b4cc61a7fa288cf7667ee3f213786d9619db57fb33ff6f934afbcb5c12ec81"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "8e31d5a1e8409c1989f8bd5cd379befa9f6b87963d9f23fb78730613120b03d3",
+        "size_in_bytes": 1295,
+        "sha256_in_prefix": "8e31d5a1e8409c1989f8bd5cd379befa9f6b87963d9f23fb78730613120b03d3"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "0a5b57377950bd76c7c4a0ed883c16d1137317cb365b206e3db3805ff65e4250",
+        "size_in_bytes": 109,
+        "sha256_in_prefix": "0a5b57377950bd76c7c4a0ed883c16d1137317cb365b206e3db3805ff65e4250"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "4aa145433b6cdf5a89ec809e61cb4fd25cf0b652ba2dfccbe7648ce02c73374e",
+        "size_in_bytes": 98,
+        "sha256_in_prefix": "4aa145433b6cdf5a89ec809e61cb4fd25cf0b652ba2dfccbe7648ce02c73374e"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "489a8e1108509ed98a37bb983e11e0f7e1d31f0bd8f99a79c8448e7ff37d07ea",
+        "size_in_bytes": 1475,
+        "sha256_in_prefix": "489a8e1108509ed98a37bb983e11e0f7e1d31f0bd8f99a79c8448e7ff37d07ea"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe-3.0.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ab2d0f9637b9209bafb020637a32728430a310075c0cb2bfd9a81571ec7c67a5",
+        "size_in_bytes": 11,
+        "sha256_in_prefix": "ab2d0f9637b9209bafb020637a32728430a310075c0cb2bfd9a81571ec7c67a5"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "bb57cb70d0b1d0ff04ecb4facf73977fa8a99d29a09ba69e7e77b9cbe77ba38d",
+        "size_in_bytes": 13248,
+        "sha256_in_prefix": "bb57cb70d0b1d0ff04ecb4facf73977fa8a99d29a09ba69e7e77b9cbe77ba38d"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "ce248f0812bbbe6b4f0cd2dd7a38069d6f68c2a696db7f87e2787c17d3c44d6c",
+        "size_in_bytes": 20948,
+        "sha256_in_prefix": "ce248f0812bbbe6b4f0cd2dd7a38069d6f68c2a696db7f87e2787c17d3c44d6c"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe/__pycache__/_native.cpython-312.pyc",
+        "path_type": "hardlink",
+        "sha256": "d7ad48d20b5cdf4abb38f692679e3a327da7fd02a838c54a59c1d021715d5cf4",
+        "size_in_bytes": 575,
+        "sha256_in_prefix": "d7ad48d20b5cdf4abb38f692679e3a327da7fd02a838c54a59c1d021715d5cf4"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe/_native.py",
+        "path_type": "hardlink",
+        "sha256": "8522ecf099b3e5aa9acae7a780927791d4f93f0369056a4aae6412762a67742f",
+        "size_in_bytes": 210,
+        "sha256_in_prefix": "8522ecf099b3e5aa9acae7a780927791d4f93f0369056a4aae6412762a67742f"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe/_speedups.c",
+        "path_type": "hardlink",
+        "sha256": "b77b42ea8555efe6e6294aaf08ee69552932f86f000885e958c689c2436d2638",
+        "size_in_bytes": 4327,
+        "sha256_in_prefix": "b77b42ea8555efe6e6294aaf08ee69552932f86f000885e958c689c2436d2638"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe/_speedups.cpython-312-darwin.so",
+        "prefix_placeholder": "/Users/runner/miniforge3/conda-bld/markupsafe_1759055336813/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "sha256": "afb0cfa8185cb40aea07948bb5ff12dde2d71da83b6c160ae495334831cf3a4b",
+        "size_in_bytes": 51392,
+        "sha256_in_prefix": "81e18f550aeec0d1d265be3ab989c05a92d067bfecbeb5a2acdf6981c481993b"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe/_speedups.pyi",
+        "path_type": "hardlink",
+        "sha256": "10d7756d87bb81b0547f6cb0c9858e194a675ce1cd27e7204cda9eb655bc8799",
+        "size_in_bytes": 41,
+        "sha256_in_prefix": "10d7756d87bb81b0547f6cb0c9858e194a675ce1cd27e7204cda9eb655bc8799"
+      },
+      {
+        "_path": "lib/python3.12/site-packages/markupsafe/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0,
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ]
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/markupsafe-3.0.3-py312h5748b74_0",
+    "type": 1
+  }
+}

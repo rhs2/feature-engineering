@@ -1,0 +1,34 @@
+{
+  "name": "python-gil",
+  "version": "3.12.12",
+  "build": "hd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "subdir": "noarch",
+  "fn": "python-gil-3.12.12-hd8ed1ab_0.conda",
+  "md5": "b317ae484dd8214de8ee7f0839be3500",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/python-gil-3.12.12-hd8ed1ab_0.conda",
+  "sha256": "609a723cb132c2454031b443fca0d42dca38f5a5acf1bb994e8d4356b1e13b98",
+  "depends": [
+    "cpython 3.12.12.*",
+    "python_abi * *_cp312"
+  ],
+  "constrains": [],
+  "noarch": "generic",
+  "license": "Python-2.0",
+  "package_type": "noarch_generic",
+  "timestamp": 1760365766000,
+  "size": 45861,
+  "requested_spec": "None",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniforge/base/pkgs/python-gil-3.12.12-hd8ed1ab_0.conda",
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniforge/base/pkgs/python-gil-3.12.12-hd8ed1ab_0",
+  "files": [],
+  "paths_data": {
+    "paths_version": 1,
+    "paths": []
+  },
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniforge/base/pkgs/python-gil-3.12.12-hd8ed1ab_0",
+    "type": 1
+  }
+}
